@@ -842,7 +842,7 @@ class Ui_MainWindow(object):
         self.SettingsTitle.setText(_translate("MainWindow", "Settings"))
         self.UseVirusTotalApiCheckBox.setText(_translate("MainWindow", "Use Virus Total api (only files under 32MB) (files will be uploaded publicly)"))
         self.VirusTotalApiKey.setPlaceholderText(_translate("MainWindow", "Enter your Virus Total api Key here"))
-        self.SaveSettingsButton.setText(_translate("MainWindow", "Safe config"))
+        self.SaveSettingsButton.setText(_translate("MainWindow", "Save Config"))
         self.UseMetaDefenderApiCheckBox.setText(_translate("MainWindow", "Use Meta Defender api to check hash"))
         self.MetaDefenderApiKey.setPlaceholderText(_translate("MainWindow", "Enter your Meta Defender api Key here"))
         self.VirusResultsTitle.setText(_translate("MainWindow", "Virus Scan Results"))
